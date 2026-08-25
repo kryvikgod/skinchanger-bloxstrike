@@ -4,9 +4,9 @@ local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/twis
 
 --// Window creation
 local Window = Rayfield:CreateWindow({
-    Name = "[📜] Blox Strike",
+    Name = "[XD] Blox Strike",
     Icon = 0,
-    LoadingTitle = "[📜] Blox Strike",
+    LoadingTitle = "[XD] Blox Strike",
     LoadingSubtitle = "by kryvik",
     ShowText = "Script",
     Theme = "Default",
