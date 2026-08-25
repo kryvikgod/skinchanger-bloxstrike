@@ -1,13 +1,13 @@
---// Script by twistedk1d
+--// Script by kryvik
 
-local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/twistedk1d/BloxStrike/refs/heads/main/Source/UI/source.lua"))() --// UI Library Rayfield
+local Rayfield = loadstring(game:HttpGet(https://github.com/kryvikgod/skinchanger-bloxstrike/edit/main/Source/script.lua))() --// UI Library Rayfield
 
 --// Window creation
 local Window = Rayfield:CreateWindow({
-    Name = "[📜] Blox Strike",
+    Name = "[XD] Blox Strike",
     Icon = 0,
-    LoadingTitle = "[📜] Blox Strike",
-    LoadingSubtitle = "by twistedk1d",
+    LoadingTitle = "[XD] Blox Strike",
+    LoadingSubtitle = "by kryvik",
     ShowText = "Script",
     Theme = "Default",
     ToggleUIKeybind = Enum.KeyCode.F5,
